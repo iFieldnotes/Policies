@@ -58,7 +58,7 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Application, or We are legally obligated to retain this data for longer periods. 
 
-## Law enforcement 
+## Law Enforcement 
 
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency). 
 
