@@ -8,15 +8,15 @@ This Privacy Policy describes Our policies and procedures on the collection, use
 
 The words capitalised have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or plural. 
 
-"Application" means the software program provided by the Company downloaded by You on any electronic device, named iFieldnotes. 
+- "Application" means the software program provided by the Company downloaded by You on any electronic device, named iFieldnotes. 
 
-"Company" (referred to as either "the Company", "We", "Us", or "Our") refers to iFieldnotes Limited. 
+- "Company" (referred to as either "the Company", "We", "Us", or "Our") refers to iFieldnotes Limited. 
 
-"Device" means any device that can access the Application, such as a computer, a cell phone, or a digital tablet. 
+- "Device" means any device that can access the Application, such as a computer, a cell phone, or a digital tablet. 
 
-"Personal Data" is any information that relates to an identified or identifiable individual. 
+- "Personal Data" is any information that relates to an identified or identifiable individual. 
 
-"You" means the individual accessing or using the Application, or the company or other legal entity on behalf of which such individual is accessing or using the Application, as applicable. 
+- "You" means the individual accessing or using the Application, or the company or other legal entity on behalf of which such individual is accessing or using the Application, as applicable. 
 
 ## Information Collection and Use 
 
